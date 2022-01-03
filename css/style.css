@@ -1,0 +1,68 @@
+body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+}
+
+.navbar {
+    background-color: #76D7C4;
+
+}
+
+.home1 {
+    background-color: lightskyblue;
+}
+ 
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin1 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.texto1 {
+    font-style: normal;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    color: ivory;
+
+}
+
+.texto2 {
+    font-style: normal;
+    text-transform: capitalize;
+    margin-top: 20px;
+    color: ivory;
+
+}
+
+.texto3 {
+    font-style: normal;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(10, 4, 46);
+
+}   
+
+#parceiros {
+    background-color: white;
+}
+
+.txt-serv {
+    text-align: justify;
+    text-decoration: navy;
+    text-transform: initial;
+}
+#serviços {
+    background-color: lightskyblue;
+}
+
+.rodape {
+    background-color: black;
+    text-transform: capitalize;
+    text-decoration: blanchedalmond;
+    
+}
